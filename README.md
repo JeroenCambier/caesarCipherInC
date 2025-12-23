@@ -1,6 +1,6 @@
-# En -/ Decrypter for the Caeser cipher
-This Programm can Encrypt and Decrypt small messages with the Caeser cipher. 
+# En -/ Decrypter for the Caesar cipher
+This program can encrypt and decrypt small messages using the Caesar cipher.
 
-The maximum Text length is 4096 charachters.
+The maximum text length is 4096 characters.
 
-Upper and lowercase are kept as is.
+Upper and lowercase letters are preserved as-is.
